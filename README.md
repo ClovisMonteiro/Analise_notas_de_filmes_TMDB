@@ -1,6 +1,15 @@
-# Introducao_a_Data_Science
+# Projeto de análise de notas de filmes
 
-## Práticas utilizando Notebook python
+## Dados obtidos a partir do TMDB
 
-Iniciativa pessoal para aprender e coloca em prática conceitos e forma de explorar os dados
+
+- Iniciativa pessoal para aprender e coloca em prática conceitos e forma de explorar os dados.
+
+- Utilização do Python para data science
+
+- Bibliotecas utilizadas:
+    - Pandas
+    - Seaborn
+    - Matplotlib
+
 
