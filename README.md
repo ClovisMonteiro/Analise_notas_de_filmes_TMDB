@@ -11,5 +11,3 @@
     - Pandas
     - Seaborn
     - Matplotlib
-
-
