@@ -1,7 +1,7 @@
 # Projeto de análise de notas de filmes
 
 ## Dados obtidos a partir do TMDB(The Movie DataBase)
-
+---
 
 - Iniciativa pessoal para aprender e coloca em prática conceitos e forma de explorar os dados.
 
@@ -11,3 +11,4 @@
     - Pandas
     - Seaborn
     - Matplotlib
+---
